@@ -45,3 +45,6 @@ main {
   margin-bottom: 6px;
   letter-spacing: 1px;
 }
+.pink {
+  background-color: pink !important;
+}
