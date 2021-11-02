@@ -1,0 +1,47 @@
+
+* {
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", cursive;
+  font-weight: normal;
+  letter-spacing: 3px;
+  color: #2F2504;
+}
+body {
+  padding: 0;
+  background-color: #00BD9D;
+}
+main {
+
+}
+.name {
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 0px;
+  font-size: 30px;
+
+}
+
+.sub-name {
+  text-align: center;
+  margin: 0;
+  color: #2F2504;
+  letter-spacing: 1px;
+  margin-bottom: 120px;
+}
+.properties {
+  width: 40%;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.property {
+  margin-bottom: 40px;
+}
+.property-name {
+  font-weight: bold;
+  font-size: 18px;
+}
+.property p {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  letter-spacing: 1px;
+}
